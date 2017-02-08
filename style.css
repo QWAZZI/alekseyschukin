@@ -34,7 +34,7 @@ li {
     /*Стили для скрытого выпадающего меню*/
     li > ul {
         position:absolute;
-        top:25px;
+        top:50px;
         display:none;   
     }
      
